@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Sardriel
+- 👀 I’m interested in Automation testing
+- 🌱 I’m currently learning Selenium
+- 📫 You can send me an e-mail to luboskrejci92@gmail.com
